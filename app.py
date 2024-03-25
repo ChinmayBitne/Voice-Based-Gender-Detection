@@ -85,8 +85,9 @@ def main():
 
     # Handle selected option
     if option == "Record Audio":
-        if st.button("Record", key="record"):
-            file = record_audio()
+        # if st.button("Record", key="record"):
+        #     file = record_audio()
+        st.write("Work under Progeress!!")
     else:
         uploaded_file = st.file_uploader("Upload Audio File (WAV format)", accept_multiple_files=False)
         if uploaded_file is not None:
