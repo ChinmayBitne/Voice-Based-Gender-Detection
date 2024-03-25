@@ -1,4 +1,5 @@
 streamlit
+tqdm
 librosa
 pyaudio
 scikit-learn
