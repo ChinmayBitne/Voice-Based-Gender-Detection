@@ -24,3 +24,7 @@ Customize your model in [`utils.py`](utils.py) file with the create_model() func
 
     python train.py
 
+## App with GUI
+Start the app using [`app.py`](app.py) for *GUI*:
+
+    streamlit run app.py
