@@ -24,6 +24,3 @@ Customize your model in [`utils.py`](utils.py) file with the create_model() func
 
     python train.py
 
-## Demo Website
-  - Link:
-    [Click](..)
